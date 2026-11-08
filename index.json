@@ -1,0 +1,11 @@
+{
+  "org": "PrefectHQ",
+  "repo": "fastmcp-ts",
+  "versions": [
+    {
+      "commit": "daaf443f8d0a9e8d90beb7fe0c487d06c72a2d3f",
+      "tag": "v1.9.1",
+      "parsed_at": "2026-11-08T11:31:22.821706+00:00"
+    }
+  ]
+}
